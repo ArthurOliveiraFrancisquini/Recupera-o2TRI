@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    color: blue;
+}
+
+h2 {
+    font-size: 20px;
+    color: red;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
